@@ -13,8 +13,6 @@ I believe in **"First solve the problem. Then, write the code."** ✨
 - 📚 Published and presented a **technical paper in Japan** on mathematical libraries.  
 - 🏃 I run as much and as often as I can
 
----
-
 ## 🛠️ Tech Stack  
 
 🚀 **Languages & Frameworks**  
@@ -39,12 +37,6 @@ I believe in **"First solve the problem. Then, write the code."** ✨
 
 ## 📝 Publications & Speaking  
 📖 **Published Paper:** [Spatial Maths: A Library for Conveying Content and Structure of Equations](#) *(DEIMS, Japan)*  
-
----
-
-## 📊 GitHub Stats  
-![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CFitzsimons&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CFitzsimons&layout=compact&theme=tokyonight)  
 
 ---
 
