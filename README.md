@@ -26,7 +26,7 @@ I value creativity in problem solving, especially when it’s supported by clear
 - **Lead Engineer / Technical Lead** on a Fortune 500 project, responsible for architecture, technical direction, and delivery
 - Experience across **startups and established organisations**, from early product work to large-scale system evolution
 - Published and presented a peer-reviewed technical paper in Japan
-- Comfortable working across frontend, backend, and infrastructure concerns
+- Built scalable backends, beautiful frontends, and offline-first performant mobile apps
 
 ---
 
@@ -36,14 +36,14 @@ My professional work increasingly overlaps with academic research, particularly 
 
 Current areas of interest include:
 
+- **AI-assisted software development**  
+  How developers interact with AI coding assistants, and what those interactions can tell us about things like stress, confidence, and uncertainty.
+
 - **Software defect classification**  
   How defects are defined and categorised differently across organisations, and how clearer, shared frameworks could improve communication, prioritisation, and tooling.
 
 - **Ambiguity in software engineering**  
   How developers interpret requirements, defects, and failures when information is incomplete or unclear, and how context and experience shape those interpretations.
-
-- **AI-assisted software development**  
-  How developers interact with AI coding assistants, and what those interactions can tell us about things like stress, confidence, and uncertainty.
 
 - **Living systematic literature reviews**  
   Using automation and AI tools to keep literature reviews up to date as new research is published.
@@ -76,8 +76,7 @@ I tend to choose tools that make systems easier to understand, change, and expla
 
 ## Outside Work
 
-I run regularly and enjoy systems that reward patience, learning, and steady improvement.  
-This applies equally to software, research, and games that don’t hand you easy answers.
+I run regularly with my two dogs, love to build things, play D&D, and I'm always game for something different!
 
 ---
 
