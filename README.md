@@ -1,35 +1,86 @@
-# 👋 Hey there! I'm Colin Fitzsimons  
-🚀 **Lead Software Engineer | Technical Architect | Open Source Enthusiast**  
+# Colin Fitzsimons
 
-I'm a software engineer with a passion for building scalable solutions and leading development teams. With experience across frontend, backend, and mobile development, I specialize in **JavaScript, TypeScript, React, Node.js, Python**, and cloud-native architectures.  
+**Lead Software Engineer · Technical Architect**  
+Ireland 🇮🇪
 
-I believe in **"First solve the problem. Then, write the code."** ✨  
+I’m a software engineer who enjoys building systems and helping people build them well.
 
----
-
-## 🔹 About Me  
-- 🎯 **Technical Lead**, guiding **30+ developers** and architecting solutions for **Fortune 500** companies.  
-- 💡 Passionate about **software architecture, clean code, and scalable systems**.  
-- 📚 Published and presented a **technical paper in Japan** on mathematical libraries.  
-- 🏃 I run as much and as often as I can
-
-## 🛠️ Tech Stack  
-
-🚀 **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-
-☁ **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  ![Serverless](https://img.shields.io/badge/-Serverless-F1502F?style=flat&logo=serverless&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
-📦 **Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+My work focuses on **software architecture, technical leadership, and delivery**. I’ve led engineering teams, shaped technical direction on large projects, and worked on production systems across startups and Fortune 500 organisations. I care about clarity, but I also care about curiosity, learning, and leaving space for new ideas.
 
 ---
 
-## 📝 Publications & Speaking  
-📖 **Published Paper:** [Spatial Maths: A Library for Conveying Content and Structure of Equations](#) *(DEIMS, Japan)*  
+## What I Work On
+
+- Leading and mentoring engineering teams (around 30 developers)
+- Designing scalable, maintainable, cloud-native systems
+- Turning unclear problem spaces into shared technical direction
+- Making architectural decisions through discussion and collaboration
+- Creating environments where engineers can experiment safely and learn
+
+I value creativity in problem solving, especially when it’s supported by clear goals and shared understanding.
 
 ---
 
-## 📫 Get in Touch!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfitzsimons)  
+## Selected Experience
+
+- **Lead Engineer / Technical Lead** on a Fortune 500 project, responsible for architecture, technical direction, and delivery
+- Experience across **startups and established organisations**, from early product work to large-scale system evolution
+- Published and presented a peer-reviewed technical paper in Japan
+- Comfortable working across frontend, backend, and infrastructure concerns
+
+---
+
+## Research Interests
+
+My professional work increasingly overlaps with academic research, particularly around how developers think about software systems and their failures.
+
+Current areas of interest include:
+
+- **Software defect classification**  
+  How defects are defined and categorised differently across organisations, and how clearer, shared frameworks could improve communication, prioritisation, and tooling.
+
+- **Ambiguity in software engineering**  
+  How developers interpret requirements, defects, and failures when information is incomplete or unclear, and how context and experience shape those interpretations.
+
+- **AI-assisted software development**  
+  How developers interact with AI coding assistants, and what those interactions can tell us about things like stress, confidence, and uncertainty.
+
+- **Living systematic literature reviews**  
+  Using automation and AI tools to keep literature reviews up to date as new research is published.
+
+---
+
+## Publications
+
+**Spatial Maths: A Library for Conveying Content and Structure of Equations**  
+Presented at DEIMS, Japan
+
+---
+
+## Technical Stack
+
+**Languages & Frameworks**  
+JavaScript · TypeScript · Python · C#  
+React · Node.js
+
+**Data & Infrastructure**  
+PostgreSQL · MySQL  
+AWS · Serverless · Docker
+
+**General**  
+Git · CI/CD · Cloud-native architectures
+
+I tend to choose tools that make systems easier to understand, change, and explain to others.
+
+---
+
+## Outside Work
+
+I run regularly and enjoy systems that reward patience, learning, and steady improvement.  
+This applies equally to software, research, and games that don’t hand you easy answers.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/cfitzsimons
